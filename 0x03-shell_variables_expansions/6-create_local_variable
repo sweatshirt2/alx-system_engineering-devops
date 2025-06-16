@@ -1,2 +1,4 @@
 #!/bin/bash
-export BEST="School"
+bekele () {
+  local BEST="School"
+}
