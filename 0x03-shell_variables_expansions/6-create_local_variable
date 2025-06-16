@@ -1,4 +1,2 @@
 #!/bin/bash
-bekele () {
-  local BEST="School"
-}
+bekele () { local BEST="School" }
