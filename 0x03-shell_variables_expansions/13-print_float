@@ -1,4 +1,2 @@
 #!/bin/bash
-to_2pf() {
-  printf "%.2f\n" "$1"
-}
+to_2pf() { printf "%.2f\n" "$1" }
